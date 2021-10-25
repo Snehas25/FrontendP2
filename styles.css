@@ -1,0 +1,58 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-image: url(images/bg-intro-desktop.png);
+	background-color: hsl(0, 100%, 74%);
+}
+h1
+{
+	font-size: 4rem;
+	color: white;
+	padding: 2rem;
+}
+p{
+	color: white;
+	font-size: 1.5rem;
+	padding: 1.5rem;
+	padding-top: 0;
+}
+h2{
+	background-color: #8E05C2;
+	border-radius: 10px;
+	text-align: center;
+	margin: 50px 0;
+	padding: 1rem;
+	color: white;
+}
+.last{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	margin: 4rem auto 0 auto;
+	padding: 0;
+}
+.left{
+	background-color: lightgray;
+	padding: 1rem;
+	margin: auto 0;
+	border-radius: 10px;
+}
+.formCol{
+	margin: 1rem 0;
+}
+.btn{
+	font-size: 20px;
+	width: 90%;
+	margin: 1rem auto;
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+.right{
+	margin: auto;
+}
+.container{
+	margin-top: 5rem;
+}
